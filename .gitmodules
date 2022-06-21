@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "qra"]
+	path = qra
+	url = https://github.com/jhmaindonald/qra
+	shallow = true
+	registered = true
