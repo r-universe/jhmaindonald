@@ -3,8 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gamclass"]
+	path = gamclass
+	url = https://github.com/cran/gamclass
+	shallow = true
+	registered = true
+[submodule "hddplot"]
+	path = hddplot
+	url = https://github.com/cran/hddplot
+	shallow = true
+	registered = true
 [submodule "qra"]
 	path = qra
 	url = https://github.com/jhmaindonald/qra
+	shallow = true
+	registered = true
+[submodule "tTOlr"]
+	path = tTOlr
+	url = https://github.com/cran/tTOlr
 	shallow = true
 	registered = true
