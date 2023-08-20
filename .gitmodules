@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "gamclass"]
 	path = gamclass
-	url = https://github.com/cran/gamclass
+	url = https://github.com/jhmaindonald/gamclass
 [submodule "hddplot"]
 	path = hddplot
 	url = https://github.com/cran/hddplot
