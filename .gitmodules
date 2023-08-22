@@ -11,6 +11,9 @@
 [submodule "hddplot"]
 	path = hddplot
 	url = https://github.com/cran/hddplot
+[submodule "hwde"]
+	path = hwde
+	url = https://github.com/cran/hwde
 [submodule "qra"]
 	path = qra
 	url = https://github.com/jhmaindonald/qra
